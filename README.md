@@ -7,7 +7,7 @@
 - احراز هویت با استفاده از google authentication Oauth و همچنین OTP authentication
 - اسفاده از supabase به عنوان backend اپلیکیشن برای handel کردن احراز هویت و دریافت محصولات و ذخیره سازی محصولات مورد علاقه
 - اسفاده از bloc برای state management اپلیکیشن
-- استفاده از clean architecture
+- مدیریت کد با استفاده از clean architecture
 - امکان ذخیره سازی تم دلخواه برای اپلیکیشن
 
 
