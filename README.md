@@ -1,16 +1,16 @@
-# console_store
+# اپلیکیشن console_store
 
-A mobile app to buy game consoles and games
+## اپلیکیشن فروشگاهی برای فروش کنسول های بازی و همچنین بازی ها و لوازم جانبی آن ها 
 
-## Getting Started
+### ویژگی های کلیدی:
 
-This project is a starting point for a Flutter application.
+- احراز هویت با استفاده از google authentication Oauth و همچنین OTP authentication
+- اسفاده از supabase به عنوان backend اپلیکیشن برای handel کردن احراز هویت و دریافت محصولات و ذخیره سازی محصولات مورد علاقه
+- اسفاده از bloc برای state management اپلیکیشن
+- استفاده از clean architecture
+- امکان ذخیره سازی تم دلخواه برای اپلیکیشن
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### در ادامه چند screenshot از محیط برنامه به شما ارایه میشود:
+
